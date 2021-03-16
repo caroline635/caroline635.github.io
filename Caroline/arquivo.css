@@ -1,0 +1,49 @@
+h1 {
+  font-family: Arial;
+  font-size: 32px;
+  padding:4px;
+  position:fixed;
+  bottom: 850px;
+  background-color: red;
+  float:left;
+  
+
+}
+
+h2 {font-family: Arial;
+    font-size: 32px;
+    padding:4px;
+    background-color:yellow;
+    position:fixed;
+    bottom: 0px;
+    float:left;
+   
+}
+
+h3 {font-family: Arial;
+    font-size: 32px;
+    padding:4px;
+    background-color:green;
+    position:fixed;
+    bottom: 850px;
+    right: 6px;
+    float:right;
+
+}
+
+h4{font-family: Arial;
+    font-size: 32px;
+    padding:4px;
+    background-color:blue;
+    position:fixed;
+    bottom: 0px;
+    right: 6px;
+    float:right;
+}
+
+P{
+   clear:both
+
+
+}
+ 
